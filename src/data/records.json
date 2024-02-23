@@ -1,0 +1,307 @@
+[
+    {
+      "salaryRange": "$5000 - $8000",
+      "employmentType": "Full Time",
+      "jobTitle": "CNC Operator",
+      "JobID":"30000",
+      "location": "Dubai",
+      "category": "Production",
+      "jobDescription": "<p class='mb-5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, ex iusto! Tenetur iusto dolore amet voluptates esse? Ut debitis perferendis, impedit ullam ea officia sapiente soluta cupiditate molestiae eius enim aut laboriosam, saepe deleniti. Excepturi nobis amet fugit ipsa corrupti!</p><p class='mb-5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo ratione odit qui inventore maiores labore tenetur earum! Quam eaque, deleniti quibusdam deserunt quos reprehenderit dolor, in quo voluptates maxime nostrum.</p>",
+      "responsibilities": [
+        "Operate CNC machines to produce precision parts",
+        "Read and interpret blueprints and technical drawings",
+        "Perform routine maintenance on CNC machines",
+        "Ensure quality and accuracy of finished parts"
+      ],
+      "educationExperience": "High school diploma or equivalent",
+      "benefits": [
+        "Medical insurance",
+        "Dental insurance",
+        "Vision insurance",
+        "Supplemental benefits (Short Term Disability, Cancer & Accident).",
+        "401(k) with matching"
+      ],
+      "jobOverview": {
+        "publishedDate": "Nov 6, 2023",
+        "vacancy": 2,
+        "employmentStatus": "Full-time",
+        "experienceRequired": "2 to 3 year(s)",
+        "salary": "$5k - $8k",
+        "gender": "Any",
+        "applicationDeadline": "Dec 15, 2023"
+      }
+    },
+    {
+      "salaryRange": "$6000 - $9000",
+      "employmentType": "Part Time",
+      "jobTitle": "Automation and Robotics Engineer",
+      "JobID":"30001",
+      "location": "Sharjah",
+      "category": "IT",
+      "jobDescription": "<p class='mb-5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, ex iusto! Tenetur iusto dolore amet voluptates esse? Ut debitis perferendis, impedit ullam ea officia sapiente soluta cupiditate molestiae eius enim aut laboriosam, saepe deleniti. Excepturi nobis amet fugit ipsa corrupti!</p><p class='mb-5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo ratione odit qui inventore maiores labore tenetur earum! Quam eaque, deleniti quibusdam deserunt quos reprehenderit dolor, in quo voluptates maxime nostrum.</p>",
+      "responsibilities": [
+        "Design and implement automation and robotics systems",
+        "Collaborate with cross-functional teams on project development",
+        "Troubleshoot and maintain automation systems",
+        "Stay current with advancements in automation technology"
+      ],
+      "educationExperience": "Bachelor's degree in Engineering or related field",
+      "benefits": [
+        "Flexible work hours",
+        "Professional development opportunities",
+        "401(k) with employer match"
+      ],
+      "jobOverview": {
+        "publishedDate": "Nov 8, 2023",
+        "vacancy": 1,
+        "employmentStatus": "Part-time",
+        "experienceRequired": "1 to 2 year(s)",
+        "salary": "$6k - $9k",
+        "gender": "Any",
+        "applicationDeadline": "Dec 20, 2023"
+      }
+    },
+    {
+      "salaryRange": "$7000 - $10000",
+      "employmentType": "Full Time",
+      "jobTitle": "Composite Technician",
+      "JobID":"30002",
+      "location": "Abu Dhabi",
+      "category": "Production",
+      "jobDescription": "<p class='mb-5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, ex iusto! Tenetur iusto dolore amet voluptates esse? Ut debitis perferendis, impedit ullam ea officia sapiente soluta cupiditate molestiae eius enim aut laboriosam, saepe deleniti. Excepturi nobis amet fugit ipsa corrupti!</p><p class='mb-5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo ratione odit qui inventore maiores labore tenetur earum! Quam eaque, deleniti quibusdam deserunt quos reprehenderit dolor, in quo voluptates maxime nostrum.</p>",
+      "responsibilities": [
+        "Assemble and lay up composite materials",
+        "Operate equipment for molding and curing",
+        "Inspect and repair composite components",
+        "Follow safety procedures and guidelines"
+      ],
+      "educationExperience": "High school diploma or equivalent",
+      "benefits": [
+        "Health and dental insurance",
+        "Generous vacation policy",
+        "401(k) with employer match"
+      ],
+      "jobOverview": {
+        "publishedDate": "Nov 10, 2023",
+        "vacancy": 3,
+        "employmentStatus": "Full-time",
+        "experienceRequired": "3 to 5 year(s)",
+        "salary": "$7k - $10k",
+        "gender": "Any",
+        "applicationDeadline": "Dec 25, 2023"
+      }
+    },
+    {
+      "salaryRange": "$5500 - $8500",
+      "employmentType": "Full Time",
+      "jobTitle": "Sales Executive",
+      "JobID":"30003",
+      "location": "Dubai",
+      "category": "Sales",
+      "jobDescription": "<p class='mb-5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, ex iusto! Tenetur iusto dolore amet voluptates esse? Ut debitis perferendis, impedit ullam ea officia sapiente soluta cupiditate molestiae eius enim aut laboriosam, saepe deleniti. Excepturi nobis amet fugit ipsa corrupti!</p><p class='mb-5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo ratione odit qui inventore maiores labore tenetur earum! Quam eaque, deleniti quibusdam deserunt quos reprehenderit dolor, in quo voluptates maxime nostrum.</p>",
+      "responsibilities": [
+        "Develop and implement sales strategies",
+        "Identify and pursue new business opportunities",
+        "Build and maintain relationships with clients",
+        "Meet and exceed sales targets"
+      ],
+      "educationExperience": "Bachelor's degree in Business or related field",
+      "benefits": [
+        "Health insurance",
+        "Commission-based incentives",
+        "Travel allowances",
+        "401(k) with employer match"
+      ],
+      "jobOverview": {
+        "publishedDate": "Nov 12, 2023",
+        "vacancy": 1,
+        "employmentStatus": "Full-time",
+        "experienceRequired": "2 to 4 year(s)",
+        "salary": "$5.5k - $8.5k",
+        "gender": "Any",
+        "applicationDeadline": "Dec 18, 2023"
+      }
+    },
+    {
+      "salaryRange": "$6500 - $9500",
+      "employmentType": "Full Time",
+      "jobTitle": "Accounts Manager",
+      "JobID":"30004",
+      "location": "Abu Dhabi",
+      "category": "Accounts",
+      "jobDescription": "<p class='mb-5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, ex iusto! Tenetur iusto dolore amet voluptates esse? Ut debitis perferendis, impedit ullam ea officia sapiente soluta cupiditate molestiae eius enim aut laboriosam, saepe deleniti. Excepturi nobis amet fugit ipsa corrupti!</p><p class='mb-5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo ratione odit qui inventore maiores labore tenetur earum! Quam eaque, deleniti quibusdam deserunt quos reprehenderit dolor, in quo voluptates maxime nostrum.</p>",
+      "responsibilities": [
+        "Manage financial accounts and budgets",
+        "Oversee financial reporting and analysis",
+        "Ensure compliance with accounting standards",
+        "Coordinate audits and tax filings"
+      ],
+      "educationExperience": "Bachelor's degree in Accounting or Finance",
+      "benefits": [
+        "Health and dental insurance",
+        "Retirement savings plan",
+        "Professional development opportunities"
+      ],
+      "jobOverview": {
+        "publishedDate": "Nov 15, 2023",
+        "vacancy": 2,
+        "employmentStatus": "Full-time",
+        "experienceRequired": "3 to 5 year(s)",
+        "salary": "$6.5k - $9.5k",
+        "gender": "Any",
+        "applicationDeadline": "Dec 22, 2023"
+      }
+    },
+    {
+      "salaryRange": "$7500 - $11000",
+      "employmentType": "Full Time",
+      "jobTitle": "IT Specialist",
+      "JobID":"30005",
+      "location": "Dubai",
+      "category": "IT",
+      "jobDescription": "<p class='mb-5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, ex iusto! Tenetur iusto dolore amet voluptates esse? Ut debitis perferendis, impedit ullam ea officia sapiente soluta cupiditate molestiae eius enim aut laboriosam, saepe deleniti. Excepturi nobis amet fugit ipsa corrupti!</p><p class='mb-5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo ratione odit qui inventore maiores labore tenetur earum! Quam eaque, deleniti quibusdam deserunt quos reprehenderit dolor, in quo voluptates maxime nostrum.</p>",
+      "responsibilities": [
+        "Provide technical support to end-users",
+        "Install and maintain hardware and software",
+        "Troubleshoot and resolve IT issues",
+        "Implement security measures and protocols"
+      ],
+      "educationExperience": "Bachelor's degree in Computer Science or related field",
+      "benefits": [
+        "Health and dental insurance",
+        "Remote work options",
+        "Professional development opportunities",
+        "401(k) with employer match"
+      ],
+      "jobOverview": {
+        "publishedDate": "Nov 18, 2023",
+        "vacancy": 1,
+        "employmentStatus": "Full-time",
+        "experienceRequired": "2 to 3 year(s)",
+        "salary": "$7.5k - $11k",
+        "gender": "Any",
+        "applicationDeadline": "Dec 28, 2023"
+      }
+    },
+    {
+      "salaryRange": "$6000 - $9000",
+      "employmentType": "Part Time",
+      "jobTitle": "Customer Service Representative",
+      "JobID":"30006",
+      "location": "Sharjah",
+      "category": "Sales",
+      "jobDescription": "<p class='mb-5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, ex iusto! Tenetur iusto dolore amet voluptates esse? Ut debitis perferendis, impedit ullam ea officia sapiente soluta cupiditate molestiae eius enim aut laboriosam, saepe deleniti. Excepturi nobis amet fugit ipsa corrupti!</p><p class='mb-5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo ratione odit qui inventore maiores labore tenetur earum! Quam eaque, deleniti quibusdam deserunt quos reprehenderit dolor, in quo voluptates maxime nostrum.</p>",
+      "responsibilities": [
+        "Assist customers with inquiries and issues",
+        "Process orders and provide product information",
+        "Maintain customer records and feedback",
+        "Collaborate with sales and support teams"
+      ],
+      "educationExperience": "High school diploma or equivalent",
+      "benefits": [
+        "Flexible work hours",
+        "Performance bonuses",
+        "Career advancement opportunities"
+      ],
+      "jobOverview": {
+        "publishedDate": "Nov 20, 2023",
+        "vacancy": 1,
+        "employmentStatus": "Part-time",
+        "experienceRequired": "1 to 2 year(s)",
+        "salary": "$6k - $9k",
+        "gender": "Any",
+        "applicationDeadline": "Dec 30, 2023"
+      }
+    },
+    {
+      "salaryRange": "$7000 - $10000",
+      "employmentType": "Full Time",
+      "jobTitle": "Marketing Specialist",
+      "JobID":"30007",
+      "location": "Abu Dhabi",
+      "category": "Marketing",
+      "jobDescription": "<p class='mb-5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, ex iusto! Tenetur iusto dolore amet voluptates esse? Ut debitis perferendis, impedit ullam ea officia sapiente soluta cupiditate molestiae eius enim aut laboriosam, saepe deleniti. Excepturi nobis amet fugit ipsa corrupti!</p><p class='mb-5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo ratione odit qui inventore maiores labore tenetur earum! Quam eaque, deleniti quibusdam deserunt quos reprehenderit dolor, in quo voluptates maxime nostrum.</p>",
+      "responsibilities": [
+        "Develop and execute marketing campaigns",
+        "Analyze market trends and competitors",
+        "Create engaging content and promotional materials",
+        "Collaborate with cross-functional teams"
+      ],
+      "educationExperience": "Bachelor's degree in Marketing or related field",
+      "benefits": [
+        "Health insurance",
+        "Performance bonuses",
+        "Professional development opportunities",
+        "401(k) with employer match"
+      ],
+      "jobOverview": {
+        "publishedDate": "Nov 22, 2023",
+        "vacancy": 2,
+        "employmentStatus": "Full-time",
+        "experienceRequired": "3 to 5 year(s)",
+        "salary": "$7k - $10k",
+        "gender": "Any",
+        "applicationDeadline": "Jan 5, 2024"
+      }
+    },
+    {
+      "salaryRange": "$8000 - $12000",
+      "employmentType": "Full Time",
+      "jobTitle": "Human Resources Manager",
+      "JobID":"30008",
+      "location": "Dubai",
+      "category": "HR",
+      "jobDescription": "<p class='mb-5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, ex iusto! Tenetur iusto dolore amet voluptates esse? Ut debitis perferendis, impedit ullam ea officia sapiente soluta cupiditate molestiae eius enim aut laboriosam, saepe deleniti. Excepturi nobis amet fugit ipsa corrupti!</p><p class='mb-5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo ratione odit qui inventore maiores labore tenetur earum! Quam eaque, deleniti quibusdam deserunt quos reprehenderit dolor, in quo voluptates maxime nostrum.</p>",
+      "responsibilities": [
+        "Oversee recruitment and onboarding processes",
+        "Manage employee relations and performance",
+        "Develop and implement HR policies",
+        "Conduct training and development programs"
+      ],
+      "educationExperience": "Bachelor's degree in Human Resources or related field",
+      "benefits": [
+        "Health and dental insurance",
+        "Retirement savings plan",
+        "Generous vacation policy"
+      ],
+      "jobOverview": {
+        "publishedDate": "Nov 25, 2023",
+        "vacancy": 1,
+        "employmentStatus": "Full-time",
+        "experienceRequired": "5 to 7 year(s)",
+        "salary": "$8k - $12k",
+        "gender": "Any",
+        "applicationDeadline": "Jan 10, 2024"
+      }
+    },
+    {
+      "salaryRange": "$9000 - $13000",
+      "employmentType": "Full Time",
+      "jobTitle": "Quality Assurance Analyst",
+      "JobID":"30009",
+      "location": "Sharjah",
+      "category": "IT",
+      "jobDescription": "<p class='mb-5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, ex iusto! Tenetur iusto dolore amet voluptates esse? Ut debitis perferendis, impedit ullam ea officia sapiente soluta cupiditate molestiae eius enim aut laboriosam, saepe deleniti. Excepturi nobis amet fugit ipsa corrupti!</p><p class='mb-5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo ratione odit qui inventore maiores labore tenetur earum! Quam eaque, deleniti quibusdam deserunt quos reprehenderit dolor, in quo voluptates maxime nostrum.</p>",
+      "responsibilities": [
+           "Assist customers with inquiries and issues",
+        "Process orders and provide product information",
+        "Maintain customer records and feedback",
+        "Collaborate with sales and support teams"
+      ],
+      "educationExperience": "High school diploma or equivalent",
+      "benefits": [
+        "Flexible work hours",
+        "Performance bonuses",
+        "Career advancement opportunities"
+      ],
+      "jobOverview": {
+        "publishedDate": "Nov 20, 2023",
+        "vacancy": 1,
+        "employmentStatus": "Part-time",
+        "experienceRequired": "1 to 2 year(s)",
+        "salary": "$6k - $9k",
+        "gender": "Any",
+        "applicationDeadline": "Dec 30, 2023"
+      }
+    }
+]
