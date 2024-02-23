@@ -1,4 +1,4 @@
-import Header from "@/components/Header";
+//import Header from "@/components/Header";
 // import SearchBar from "@/components/SearchBar";
 // import Footer from "@/components/Footer";
 // import CategoryFilters from "@/components/CategoryFilters";
@@ -10,7 +10,6 @@ export default function Home() {
   return (
    
       <div className="main">
-        <Header/>
         <div className="logo">
           <Image src="/images/logo.svg" alt="logo" layout="fill" />
         </div>
