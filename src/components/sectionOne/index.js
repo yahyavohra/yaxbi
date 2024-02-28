@@ -37,7 +37,7 @@ const SectionOne = () => {
                 Agile Teams for Scaleup
                 </h3>
                 <h6 >
-                We offer a wide range of services to support our client's needs. Our expertise includes idea development, prototyping, design, thorough analysis, and both mobile and web development.
+                We offer a wide range of services to support our client&apos;s needs. Our expertise includes idea development, prototyping, design, thorough analysis, and both mobile and web development.
                 </h6>
             </div>
             <div className='box'>

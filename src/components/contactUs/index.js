@@ -1,6 +1,4 @@
 "use client";
-import { useState } from 'react'
-import { Switch } from '@headlessui/react'
 import Image from "next/image";
 import "./style.scss";
 
@@ -9,8 +7,6 @@ function classNames(...classes) {
 }
 
 function contactUs() {
-  const [agreed, setAgreed] = useState(false)
-
   return (
     <>
     <div className='ContactUs main'>
@@ -139,7 +135,7 @@ function contactUs() {
             type="submit"
             className="block w-full rounded-md bg-[#2196F3] px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-[#2196F3]-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
           >
-            Let's talk
+            Let&apos;s talk
           </button>
         </div>
       </form>

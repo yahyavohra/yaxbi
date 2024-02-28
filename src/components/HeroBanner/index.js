@@ -85,7 +85,7 @@ const HeroBanner = () => {
           </motion.span>
           
                   <a className="button " href="/all-access">
-                    <span>Let's Talk <span ariaHidden="true">→</span>
+                    <span>Let&apos;s Talk <span ariaHidden="true">→</span>
                     </span>
                   </a>
           

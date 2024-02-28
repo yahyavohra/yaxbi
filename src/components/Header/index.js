@@ -43,7 +43,7 @@ const Header = () => {
               </motion.div>
               <div className="">
                   <a className="button-primary inline-flex justify-center rounded-lg text-sm font-semibold py-2.5 px-4 bg-slate-900 text-white hover:bg-slate-700 -my-2.5 ml-8" href="/all-access">
-                    <span>Let's Talk <span ariaHidden="true">→</span>
+                    <span>Let&apos;s Talk <span ariaHidden="true">→</span>
                     </span>
                   </a>
               </div>
