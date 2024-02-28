@@ -1,22 +1,34 @@
-//import Header from "@/components/Header";
-// import SearchBar from "@/components/SearchBar";
-// import Footer from "@/components/Footer";
-// import CategoryFilters from "@/components/CategoryFilters";
-// import SearchListing from "@/components/SearchListing";
-// import HeroBanner from "@/components/HeroBanner";
+import { useEffect } from 'react';
+import Loading from '@/components/Loading/Index';
+import Header from '@/components/Header';
+import HeroBanner from '@/components/HeroBanner';
+import SectionOne from '@/components/sectionOne';
+import SectionTwo from '@/components/sectionTwo';
+import FAQPage from '@/components/FaqQuestion'
+import ContactUs from '@/components/contactUs';
+import Footer from '@/components/Footer';
 import Image from "next/image";
 import "@/app/globals.scss";
+import "@/app/font.scss";
 export default function Home() {
+  useEffect(() => {
+    // Scrolls the page to the top on component mount
+    window.scrollTo(0, 0);
+  }, []); // The empty array ensures this effect runs once on moun
   return (
-   
-      <div className="main">
-        <div className="logo">
-          <Image src="/images/logo.svg" alt="logo" layout="fill" />
-        </div>
-      <div className="announcement">Something exciting is coming soons!</div>
-
-
-    </div>
-    
+    <>
+      <Loading/>
+      
+      <HeroBanner/>
+      <div className='mt-[100vh] bg-white absolute top-[0px] w-full'>
+        {/* <Header/> */}
+        <SectionOne/>
+        <SectionTwo/>
+        <FAQPage/>
+        <ContactUs/>
+        <Footer/>
+      </div>
+      
+    </>
   );
 }

@@ -1,57 +1,211 @@
-// @tailwind base;
-// @tailwind components;
-// @tailwind utilities;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 @import url('https://fonts.cdnfonts.com/css/montserrat');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 
 body {
   background-color: #fff;
-  font-family: 'Montserrat', sans-serif;
+ // font-family: 'Montserrat', sans-serif;
+  font-family: 'roboto', sans-serif;
+  margin: 0px;
 }
 .container {
   max-width: 1200px;
   --bs-gutter-x: 30px;
 }
-.logo {
+.Prelogo{
   font-size: 36px;
   font-weight: bold;
   color: #333;
   position: relative;
-  width: 200px;
-  height: 50px;
+  width: 310px;
+  height: 81px;
 }
-.announcement {
-  margin-top: 20px;
-  font-size: 24px;
-  color: #666;
+
+.button-primary {
+  background-color: #2B5FCE;
+  color:#fff;  
 }
-.email-input {
-  margin-top: 20px;
-  padding: 10px;
-  font-size: 16px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  width: 300px;
+
+
+// laodund
+.main_text_multi_scroller {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  overflow: hidden;
+  padding-left: 5vw;
+  box-sizing: border-box;
+  padding-top: 35vh;
+  padding-bottom: 40vh;
+  height: 100vh;
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+ // background: url(../../public/images/background.jpg);
+  background-size: cover;
+  background-color: black;
 }
-.notify-btn {
-  padding: 10px 20px;
-  font-size: 16px;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  margin-top: 10px;
+
+@media (max-width: 600px) {
+  .main_text_multi_scroller {
+      justify-content:center;
+      padding-left: 0;
+      padding-top: 35vh;
+      padding-right: 0
+  }
 }
-.notify-btn:hover {
-  background-color: #0056b3;
+
+.main_text_multi_scroller svg {
+  width: 310px;
+  height: 81px;
+  fill: #fff;
+  mix-blend-mode: difference;
 }
-.main {
+
+// @media (max-width: 900px) {
+//   .main_text_multi_scroller svg {
+//       width:115px;
+//       height: 40px
+//   }
+// }
+
+.main_text_multi_scroller h1 {
+  font-style: normal;
+  font-size: 50px;
+  line-height: 1;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 0px;
+  margin-bottom: 0;
+  height: 45px;
+  padding-left: 25px;
+  border-left: 1px solid #fff;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-  position: absolute;
-  width: 100%;
-  box-sizing: border-box;
+  overflow-y: hidden;
+  margin-left: 35px;
+  padding-top: 0;
+  text-transform: uppercase;
+  margin-top: 0px;
+  mix-blend-mode: difference;
 }
+
+@media (max-width: 900px) {
+  .main_text_multi_scroller h1 {
+      font-size:40px;
+      height: 40px;
+      margin-left: 20px;
+      padding-left: 20px
+  }
+}
+
+@media (max-width: 600px) {
+  .main_text_multi_scroller h1 {
+      border:none;
+      padding: 0;
+      margin: 0;
+      margin-left: 30px;
+      text-align: left;
+      letter-spacing: -.6px;
+      overflow: hidden
+  }
+}
+
+.main_text_multi_scroller h1 span.first-animate {
+  animation: j 3s linear forwards
+}
+
+// @media (max-width: 600px) {
+//   .main_text_multi_scroller h1 span.first-animate {
+//       animation:k 2s linear forwards
+//   }
+// }
+
+.main_text_multi_scroller h1.active {
+  flex-direction: row;
+  overflow-y: visible
+}
+
+.main_text_multi_scroller h1.active .first-animate {
+  animation: none
+}
+
+@keyframes j {
+  0% {
+      margin-top: -25px
+  }
+
+  12% {
+      margin-top: -50px
+  }
+
+  25% {
+      margin-top: -50px
+  }
+
+  37% {
+      margin-top: -75px
+  }
+
+  50% {
+      margin-top: -100px
+  }
+
+  62% {
+      margin-top: -100px
+  }
+
+  75% {
+      margin-top: -125px
+  }
+
+  87% {
+      margin-top: -152px
+  }
+
+  to {
+      margin-top: -152px
+  }
+}
+
+// @keyframes k {
+//   0% {
+//       margin-top: 40px
+//   }
+
+//   12% {
+//       margin-top: 0
+//   }
+
+//   25% {
+//       margin-top: 0
+//   }
+
+//   37% {
+//       margin-top: -40px
+//   }
+
+//   50% {
+//       margin-top: -40px
+//   }
+
+//   62% {
+//       margin-top: -80px
+//   }
+
+//   75% {
+//       margin-top: -80px
+//   }
+
+//   87% {
+//       margin-top: -120px
+//   }
+
+//   to {
+//       margin-top: -90px
+//   }
+// }
