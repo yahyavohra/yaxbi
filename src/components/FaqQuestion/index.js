@@ -56,7 +56,7 @@ function FAQPage() {
                 FAQs
             </h3>
             <h6 className="descrip">
-            Answer common questions about Yaxbi's services, approach to tech solutions, and how they cater to the needs of startups, scaleups, and enterprises.
+            Answer common questions about Yaxbi&apos;s services, approach to tech solutions, and how they cater to the needs of startups, scaleups, and enterprises.
             </h6>
         </div>
       <Accordion questionsAnswers={faqs} />
