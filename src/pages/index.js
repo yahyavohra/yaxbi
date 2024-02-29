@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import Loading from '@/components/Loading/Index';
+import Head from 'next/head';
 import Header from '@/components/Header';
 import HeroBanner from '@/components/HeroBanner';
 import SectionOne from '@/components/sectionOne';
@@ -17,6 +18,11 @@ export default function Home() {
   }, []); // The empty array ensures this effect runs once on moun
   return (
     <>
+      <Head>
+        <meta name="viewport" content="width=device-width,initial-scale=1"/>
+        <link rel="icon" type="image/svg+xml" href="/images/favicon.svg"/>
+        <link rel="icon" type="image/png" href="/images/favicon.png"/>
+      </Head>
       <Loading/>
       
       <HeroBanner/>
