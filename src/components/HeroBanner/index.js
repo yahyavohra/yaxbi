@@ -6,7 +6,7 @@ import "./style.scss";
 
 function useBackgroundColor() {
   const { scrollYProgress } = useViewportScroll();
-  const backgroundColor = useTransform(scrollYProgress, [0, 1], ['rgb(0 0 255 / 0%)', 'rgb(0 0 255 / 100%)']);
+  const backgroundColor = useTransform(scrollYProgress, [0, 1], ['rgb(33 150 243 / 0%)', 'rgb(33 150 243 / 100%)']);
 
   return backgroundColor;
 }
