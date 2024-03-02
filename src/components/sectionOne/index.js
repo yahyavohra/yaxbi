@@ -24,7 +24,7 @@ const SectionOne = () => {
                     MVP for Startups
                 </h3>
                 <h6 >
-                Transform all of your incredibly innovative and groundbreaking ideas into a market-ready MVP with the exceptional assistance of our lightning-fast and highly innovative solution-building team.
+                Transform ideas into reality with our streamlined MVP development, accelerating startup success efficiently.
                 </h6>
             </div>
             <div className='box'>
@@ -37,7 +37,7 @@ const SectionOne = () => {
                 Agile Teams for Scaleup
                 </h3>
                 <h6 >
-                We offer a wide range of services to support our client&apos;s needs. Our expertise includes idea development, prototyping, design, thorough analysis, and both mobile and web development.
+                Scale swiftly with our agile experts, enhancing productivity and innovation for your growing business.
                 </h6>
             </div>
             <div className='box'>
@@ -49,10 +49,26 @@ const SectionOne = () => {
                     Digital Transformation
                 </h3>
                 <h6 >
-                Expand your team or hand over your development project to us. We specialize in mobile and web development, product design, cloud services, quality review, and product management.
+                Revolutionize your operations with our digital solutions, driving growth and efficiency in a competitive world.
                 </h6>
                
             </div>
+            <div className='box'>
+                
+          
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12a7.5 7.5 0 0 0 15 0m-15 0a7.5 7.5 0 1 1 15 0m-15 0H3m16.5 0H21m-1.5 0H12m-8.457 3.077 1.41-.513m14.095-5.13 1.41-.513M5.106 17.785l1.15-.964m11.49-9.642 1.149-.964M7.501 19.795l.75-1.3m7.5-12.99.75-1.3m-6.063 16.658.26-1.477m2.605-14.772.26-1.477m0 17.726-.26-1.477M10.698 4.614l-.26-1.477M16.5 19.794l-.75-1.299M7.5 4.205 12 12m6.894 5.785-1.149-.964M6.256 7.178l-1.15-.964m15.352 8.864-1.41-.513M4.954 9.435l-1.41-.514M12.002 12l-3.75 6.495" />
+                </svg>
+
+                <h3 >
+                Data Engineering
+            </h3>
+            <h6 >
+            Unleash the power of your data with our engineering expertise, enabling smarter decisions and strategies.
+            </h6>
+           
+        </div>
+           
 
         </div>
         

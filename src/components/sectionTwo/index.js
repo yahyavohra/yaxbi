@@ -30,7 +30,7 @@ const SectionTwo = () => {
                 Conceptualization & Prototyping
                 </h3>
                 <h6 >
-                We offer expertise in Mobile Development, Web Development, Product Design, Cloud Services, Quality Review, and Product Management.
+                Transform initial concepts into tangible prototypes rapidly, enabling early validation and iterative improvement to ensure product-market fit and innovation.
                 </h6>
             </div>
             <div className='box'>
@@ -48,10 +48,67 @@ const SectionTwo = () => {
                     Product Design
                 </h3>
                 <h6 >
-                Our services include Product Design, Legacy Modernization, Testing, and Mobile Development.
+                Elevate user experience with our comprehensive product design services, blending aesthetic appeal with functional excellence, ensuring user engagement and satisfaction.
                 </h6>
                
             </div>
+            <div className='box'>
+            <div className='imageBox'>
+                <Image
+                    src="/images/project_managemnt_4.jpg"
+                    alt="Hero Background"
+                    layout="fill"
+                    objectFit="cover"
+                    
+                />
+                </div>
+                
+                <h3 >
+                Product Development
+                </h3>
+                <h6 >
+                Realize your vision through our full-cycle product development process, emphasizing scalable, robust solutions tailored to meet specific business needs.
+                </h6>
+            </div>
+            <div className='box'>
+            <div className='imageBox'>
+                <Image
+                    src="/images/project_management_1.jpg"
+                    alt="Hero Background"
+                    layout="fill"
+                    objectFit="cover"
+                    
+                />
+                </div>
+                
+                <h3 >
+                Project Management
+                </h3>
+                <h6 >
+                Achieve project success with our strategic management approach, focusing on efficiency, clear communication, and meticulous planning to meet deadlines and quality standards.
+                </h6>
+            </div>
+            <div className='box'>
+            <div className='imageBox'>
+                <Image
+                    src="/images/cyber_sercure_1.jpg"
+                    alt="Hero Background"
+                    layout="fill"
+                    objectFit="cover"
+                    
+                />
+                </div>
+                
+                <h3 >
+                Cyber security
+                </h3>
+                <h6 >
+                Strengthen your digital defenses with our advanced cybersecurity strategies, protecting your operations from evolving threats and ensuring data integrity and compliance.
+                </h6>
+            </div> 
+           
+
+
             <div className='box'>
             <div className='imageBox'>
                 <Image
@@ -67,7 +124,7 @@ const SectionTwo = () => {
                 Quality Analysis
                 </h3>
                 <h6 >
-                Contact us for Mobile Development, Web Development, and Product Design services.
+                Guarantee your product&apos;s integrity with our thorough quality analysis, identifying and resolving issues early to maintain high standards of performance and reliability.
                 </h6>
             </div>
 
