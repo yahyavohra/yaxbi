@@ -37,7 +37,7 @@ const SectionTwo = () => {
                 
             <div className='imageBox'>
                 <Image
-                    src="/images/design.png"
+                    src="/images/design.jpg"
                     alt="Hero Background"
                     layout="fill"
                     objectFit="cover"
