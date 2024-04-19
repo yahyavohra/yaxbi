@@ -84,10 +84,10 @@ const HeroBanner = () => {
             <motion.img   src="/images/logoWhite.svg" alt="logo" className="logo" />
           </motion.span>
           
-                  <a className="button " href="/all-access">
+                  <motion.a className="button"  href="#JotFormIFrame-240912269825461">
                     <span>Let&apos;s Talk <span ariaHidden="true">→</span>
                     </span>
-                  </a>
+                  </motion.a>
           
               
           </motion.div>

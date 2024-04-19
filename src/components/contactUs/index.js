@@ -9,6 +9,7 @@ function classNames(...classes) {
 function contactUs() {
   return (
     <>
+
     <div className='ContactUs main'>
         <div className="isolate bg-white px-6 py-24 sm:py-32 lg:px-8">
       <div
@@ -23,7 +24,7 @@ function contactUs() {
           }}
         /> */}
       </div>
-      <div className="mx-auto max-w-2xl text-center">
+      {/* <div className="mx-auto max-w-2xl text-center">
         <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Get in Touch</h2>
         <p className="mt-2 text-lg leading-8 text-gray-600">
         Have a question or need assistance? Contact us!
@@ -101,34 +102,7 @@ function contactUs() {
               />
             </div>
           </div>
-          {/* <Switch.Group as="div" className="flex gap-x-4 sm:col-span-2">
-            <div className="flex h-6 items-center">
-              <Switch
-                checked={agreed}
-                onChange={setAgreed}
-                className={classNames(
-                  agreed ? 'bg-indigo-600' : 'bg-gray-200',
-                  'flex w-8 flex-none cursor-pointer rounded-full p-px ring-1 ring-inset ring-gray-900/5 transition-colors duration-200 ease-in-out focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600'
-                )}
-              >
-                <span className="sr-only">Agree to policies</span>
-                <span
-                  aria-hidden="true"
-                  className={classNames(
-                    agreed ? 'translate-x-3.5' : 'translate-x-0',
-                    'h-4 w-4 transform rounded-full bg-white shadow-sm ring-1 ring-gray-900/5 transition duration-200 ease-in-out'
-                  )}
-                />
-              </Switch>
-            </div>
-            <Switch.Label className="text-sm leading-6 text-gray-600">
-              By selecting this, you agree to our{' '}
-              <a href="#" className="font-semibold text-[#2196F3]">
-                privacy&nbsp;policy
-              </a>
-              .
-            </Switch.Label>
-          </Switch.Group> */}
+         
         </div>
         <div className="mt-10">
           <button
@@ -138,7 +112,18 @@ function contactUs() {
             Let&apos;s talk
           </button>
         </div>
-      </form>
+      </form> */}
+      <iframe
+  id="JotFormIFrame-240912269825461"
+  title="General Inquiry Contact Form"
+  onload="window.parent.scrollTo(0,0)"
+  allowTransparency="true"
+  allow="geolocation; microphone; camera; fullscreen"
+  src="https://form.jotform.com/240912269825461"
+  frameBorder={0}
+  style={{ minWidth: "100%", maxWidth: "100%", height: '800px', border: "none" }}
+  scrolling="no"
+/>
         </div>
         <div className='bigImage'>
         <Image
