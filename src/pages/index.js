@@ -20,6 +20,7 @@ export default function Home() {
     <>
       <Head>
         <meta name="viewport" content="width=device-width,initial-scale=1"/>
+        <meta name="google-site-verification" content="jRpOmOLhzaWrust7ul5nfr4gF8-hRE32GQAYY25aGtg" />
         <link rel="icon" type="image/svg+xml" href="/images/favicon.svg"/>
         <link rel="icon" type="image/png" href="/images/favicon.png"/>
       </Head>
