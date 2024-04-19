@@ -22,6 +22,9 @@
     .boxMain{
         width: 900px;
         margin: 0px auto;
+        @media (max-width: 980px) {
+            width: 90%;
+        }
         .answer{
             text-align: left;
             color: #959595;

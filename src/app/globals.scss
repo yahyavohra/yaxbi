@@ -52,10 +52,13 @@ body {
 
 @media (max-width: 600px) {
   .main_text_multi_scroller {
-      justify-content:center;
-      padding-left: 0;
-      padding-top: 35vh;
-      padding-right: 0
+    justify-content: space-between;
+    padding-left: 0;
+    padding-top: 35vh;
+    padding-right: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 }
 
@@ -94,24 +97,13 @@ body {
   mix-blend-mode: difference;
 }
 
-@media (max-width: 900px) {
-  .main_text_multi_scroller h1 {
-      font-size:40px;
-      height: 40px;
-      margin-left: 20px;
-      padding-left: 20px
-  }
-}
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
   .main_text_multi_scroller h1 {
       border:none;
       padding: 0;
       margin: 0;
-      margin-left: 30px;
-      text-align: left;
-      letter-spacing: -.6px;
-      overflow: hidden
+      margin-left: 0px;
   }
 }
 

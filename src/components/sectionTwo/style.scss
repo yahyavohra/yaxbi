@@ -13,6 +13,12 @@
         text-align: left; 
         width: 45%;
         margin: 0px auto 0px 0px;
+        @media (max-width: 980px) {
+            width: 90%;
+            padding-top: 60px;
+            margin: auto;
+            text-align: left; 
+        }
     }
     .tip{
         font-weight: 700; 
@@ -23,6 +29,9 @@
         font-size: 45px;
         margin: 20px 0px;
         line-height: 1.1;
+        @media (max-width: 600px) {
+            font-size: 32px;
+        }
     }
     .descrip{
         font-size: 18px;
@@ -33,6 +42,16 @@
         display: grid ;
         grid-template-columns: repeat(3, minmax(0, 1fr)); 
         column-gap: 2rem;
+        @media (max-width: 980px) {
+            grid-template-columns: repeat(2, minmax(0, 1fr)); 
+            padding: 20px;
+            margin-bottom: 50px;
+            margin-top: -2rem;
+        }
+       
+        @media (max-width: 600px) {
+            grid-template-columns: repeat(1, minmax(0, 1fr)); 
+        }
         
         .box{
             display: flex; 
