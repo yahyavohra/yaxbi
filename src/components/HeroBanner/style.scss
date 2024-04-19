@@ -5,12 +5,14 @@
     height: 100vh;
     width: 100%;
     top: 0px;
+    video{
+       object-fit: cover;
+    }
     @media (max-width: 900px) {
         video{
             max-width: fit-content;
             height: 100%;
         }
-       
     }
 }
 .gradient{
