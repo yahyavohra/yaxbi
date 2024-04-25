@@ -89,20 +89,20 @@
         }
     }
 }
-.textAreatop{
+.textAreatops{
     display: flex;
     z-index: 20;
     justify-content: flex-end;
     align-items: flex-end;
     text-align: center;
     color: #ffffff;
-    position: fixed;
+    position: inherit;
     width: 100%;
     left: 0px;
     top: 0px;
     padding: 20px;
     > span{
-        position: fixed; 
+        position: absolute; 
         width: 330px;
         height: 100px;
         padding: 0px;

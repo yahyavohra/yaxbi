@@ -83,6 +83,11 @@ const HeroBanner = () => {
           {/* Replace "Logo" with your actual logo */}
             <motion.img   src="/images/logoWhite.svg" alt="logo" className="logo" />
           </motion.span>
+                   
+                  <motion.a className="button bitrix"   href="/partner/bitrix24">
+                    <img src='/images/bitrix24.svg' alt='bitrix24' />
+                   
+                  </motion.a>
           
                   <motion.a className="button"  href="#JotFormIFrame-240912269825461">
                     <span>Let&apos;s Talk <span ariaHidden="true">→</span>
