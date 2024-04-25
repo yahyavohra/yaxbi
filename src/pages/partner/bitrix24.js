@@ -201,10 +201,10 @@ export default function Home() {
         <h2 className='title'>Why Choose Yaxbi and Bitrix24</h2>
         <p className='descrip'>
           As a Bitrix24 partner, Yaxbi brings years of expertise in tech
-          solutions and a deep understanding of our clients' needs. Our
+          solutions and a deep understanding of our clients&apos; needs. Our
           partnership with Bitrix24 allows us to offer unparalleled support in
           implementation, configuration, customization, and training. Whether
-          you're a startup looking to streamline operations or a large
+          you&apos;re a startup looking to streamline operations or a large
           enterprise seeking comprehensive business automation, Yaxbi and
           Bitrix24 have you covered.
         </p>
